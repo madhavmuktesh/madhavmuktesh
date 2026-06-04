@@ -139,7 +139,7 @@ A full-stack placement portal website for managing student placements and job ap
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/madhavmuktesh](https://www.linkedin.com/in/madhav-muktesh-vallampati-4047a1275/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-muktesh-vallampati-4047a1275/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/madhavmuktesh)
 
 ---
