@@ -2,7 +2,7 @@
 
 # Hi, I'm Madhav Muktesh 👋
 
-### Full-Stack Developer | AI/ML Enthusiast | Robotics & Systems Builder
+### Full-Stack Developer | AI/ML Enthusiast 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=madhavmuktesh&color=blueviolet&style=flat-square)](https://github.com/madhavmuktesh)
 
