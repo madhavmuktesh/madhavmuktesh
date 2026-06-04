@@ -125,17 +125,6 @@ A full-stack placement portal website for managing student placements and job ap
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhavmuktesh&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavmuktesh&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
